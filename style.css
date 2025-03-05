@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: azure;
+    text-align: center;
+}
+
+header {
+    background-color: violet;
+    color: white;
+    padding: 20px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
